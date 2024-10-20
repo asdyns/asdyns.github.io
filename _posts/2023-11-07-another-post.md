@@ -9,11 +9,8 @@ author: Asad Younis
 # Another Post
 ## Post placeholder
 
-```mermaid
-graph TD;
-  A-->B;
-  A-->C;
-  B-->D;
-  C-->D;
-```
+<pre class="mermaid">
+flowchart TD
+     A-->B
+</pre>
 
