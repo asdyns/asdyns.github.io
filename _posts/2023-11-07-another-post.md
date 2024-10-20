@@ -10,7 +10,11 @@ author: Asad Younis
 ## Post placeholder
 
 <pre class="mermaid">
-flowchart TD
-     A-->B
+mindmap
+    Latency Reduction
+        DB Optimisation
+            Query optimisation
+            Indexing
+        CDN
 </pre>
 
